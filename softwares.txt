@@ -7,8 +7,12 @@ Nesta listagem vamos inserir os softwares que temos.
 #####################
 # Softwares prontos #
 #####################
+
 - Software PDV supermercado
 - Software Venda Loja de Peças Automotivas
+- Software Venda Loja Material de Construção
+- Software Venda Sorveteria
+
 
 
 
