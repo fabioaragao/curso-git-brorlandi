@@ -7,7 +7,8 @@ Nesta listagem vamos inserir os softwares que temos.
 #####################
 # Softwares prontos #
 #####################
-
+- Software Venda Loja Material de Construção
+- Software Venda Sorveteria
 
 
 

@@ -20,3 +20,4 @@ Neste arquivo vamos disponibilizar os computadores disponiveis para venda e alug
 #############################
 # Computadores para Aluguel #
 #############################
+- Notebook Core i7 16Gb RAM HD 2Tb
