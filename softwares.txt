@@ -10,16 +10,10 @@ Nesta listagem vamos inserir os softwares que temos.
 
 - Software PDV supermercado
 - Software Venda Loja de Peças Automotivas
-<<<<<<< HEAD
 - Software Venda Loja de Roupas
 - Software Venda Loja de Frango Assado
-=======
 - Software Venda Loja Material de Construção
 - Software Venda Sorveteria
-
-
->>>>>>> df4e3c522dd136295aebf9064da3d4070c23fdd7
-
 
 
 
