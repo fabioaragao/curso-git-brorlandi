@@ -1,1 +1,22 @@
 # Este arquivo vai listar os computadores #
+
+Neste arquivo vamos disponibilizar os computadores disponiveis para venda e aluguel
+
+
+###########################
+# Computadores para venda #
+###########################
+
+
+
+
+
+
+
+
+
+
+
+#############################
+# Computadores para Aluguel #
+#############################

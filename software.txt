@@ -1,1 +1,21 @@
 # Este arquivo vai listar os softwares #
+
+Nesta listagem vamos inserir os softwares que temos.
+
+
+
+#####################
+# Softwares prontos #
+#####################
+
+
+
+
+
+
+
+
+
+#########################
+# Softwares em Produção #
+#########################
